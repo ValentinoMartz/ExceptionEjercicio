@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slnException", "slnException\slnException.csproj", "{A35C7D2D-3C7B-4DBC-A528-2E2FB3B1B464}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsExeption", "WindowsExeption\WindowsExeption.csproj", "{574A1922-C187-4F59-B7EF-6DE8193C8B90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A35C7D2D-3C7B-4DBC-A528-2E2FB3B1B464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A35C7D2D-3C7B-4DBC-A528-2E2FB3B1B464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A35C7D2D-3C7B-4DBC-A528-2E2FB3B1B464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574A1922-C187-4F59-B7EF-6DE8193C8B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574A1922-C187-4F59-B7EF-6DE8193C8B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574A1922-C187-4F59-B7EF-6DE8193C8B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574A1922-C187-4F59-B7EF-6DE8193C8B90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

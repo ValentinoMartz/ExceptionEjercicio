@@ -1,0 +1,14 @@
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\bin\Debug\WindowsExeption.exe.config
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\bin\Debug\WindowsExeption.exe
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\bin\Debug\WindowsExeption.pdb
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\bin\Debug\slnException.dll
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\bin\Debug\slnException.pdb
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.csproj.AssemblyReference.cache
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.Form1.resources
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.Properties.Resources.resources
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.csproj.GenerateResource.cache
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.csproj.CoreCompileInputs.cache
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.csproj.CopyComplete
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.exe
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\WindowsExeption\obj\Debug\WindowsExeption.pdb

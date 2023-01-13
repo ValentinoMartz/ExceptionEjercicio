@@ -1,0 +1,6 @@
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\slnException\bin\Debug\slnException.dll
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\slnException\bin\Debug\slnException.pdb
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\slnException\obj\Debug\slnException.csproj.AssemblyReference.cache
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\slnException\obj\Debug\slnException.csproj.CoreCompileInputs.cache
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\slnException\obj\Debug\slnException.dll
+D:\Escritorio\Accenture\Programacion Web Net Core\Exepcion ejercicio\slnException\slnException\obj\Debug\slnException.pdb
