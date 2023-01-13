@@ -14,7 +14,7 @@ namespace slnException
             {
                 throw new Exception("El nombre no puede estar vacío o superar los 50 carácteres");
             }
-            else if (nombre.Split(' ').Length < 1)
+            else if (nombre.Split(' ').Length > 1)
             {
                 throw new Exception("Quitar espacios en blanco antes o después del nombre");
             }

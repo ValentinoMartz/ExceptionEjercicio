@@ -22,6 +22,34 @@ namespace WindowsExeption
         {
             try
             {
+                Medico medico1 = new Medico("Valentino");
+                MessageBox.Show($"Nombre del medico: {medico1.Nombre}");
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btnEspacio_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Medico medico1 = new Medico("Valentino Martinez");
+               
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void btnCaracteres_Click(object sender, EventArgs e)
+        {
+            try
+            {
                 Medico medico1 = new Medico("");
                 MessageBox.Show(medico1.Nombre);
             }
